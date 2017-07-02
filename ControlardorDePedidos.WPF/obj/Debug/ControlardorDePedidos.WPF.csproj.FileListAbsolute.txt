@@ -1,0 +1,17 @@
+D:\Codigos\SinergiaWeb\C#\WPF\dn32comercio\ControlardorDePedidos.WPF\bin\Debug\ControlardorDePedidos.WPF.exe.config
+D:\Codigos\SinergiaWeb\C#\WPF\dn32comercio\ControlardorDePedidos.WPF\bin\Debug\ControlardorDePedidos.WPF.exe
+D:\Codigos\SinergiaWeb\C#\WPF\dn32comercio\ControlardorDePedidos.WPF\bin\Debug\ControlardorDePedidos.WPF.pdb
+D:\Codigos\SinergiaWeb\C#\WPF\dn32comercio\ControlardorDePedidos.WPF\obj\Debug\ControlardorDePedidos.WPF.csprojResolveAssemblyReference.cache
+D:\Codigos\SinergiaWeb\C#\WPF\dn32comercio\ControlardorDePedidos.WPF\obj\Debug\MainWindow.g.cs
+D:\Codigos\SinergiaWeb\C#\WPF\dn32comercio\ControlardorDePedidos.WPF\obj\Debug\App.g.cs
+D:\Codigos\SinergiaWeb\C#\WPF\dn32comercio\ControlardorDePedidos.WPF\obj\Debug\ControlardorDePedidos.WPF_MarkupCompile.cache
+D:\Codigos\SinergiaWeb\C#\WPF\dn32comercio\ControlardorDePedidos.WPF\obj\Debug\ControlardorDePedidos.WPF_MarkupCompile.lref
+D:\Codigos\SinergiaWeb\C#\WPF\dn32comercio\ControlardorDePedidos.WPF\obj\Debug\MainWindow.baml
+D:\Codigos\SinergiaWeb\C#\WPF\dn32comercio\ControlardorDePedidos.WPF\obj\Debug\ControlardorDePedidos.WPF.g.resources
+D:\Codigos\SinergiaWeb\C#\WPF\dn32comercio\ControlardorDePedidos.WPF\obj\Debug\ControlardorDePedidos.WPF.Properties.Resources.resources
+D:\Codigos\SinergiaWeb\C#\WPF\dn32comercio\ControlardorDePedidos.WPF\obj\Debug\ControlardorDePedidos.WPF.csproj.GenerateResource.Cache
+D:\Codigos\SinergiaWeb\C#\WPF\dn32comercio\ControlardorDePedidos.WPF\obj\Debug\ControlardorDePedidos.WPF.exe
+D:\Codigos\SinergiaWeb\C#\WPF\dn32comercio\ControlardorDePedidos.WPF\obj\Debug\ControlardorDePedidos.WPF.pdb
+D:\Codigos\SinergiaWeb\C#\WPF\dn32comercio\ControlardorDePedidos.WPF\obj\Debug\Produtos.g.cs
+D:\Codigos\SinergiaWeb\C#\WPF\dn32comercio\ControlardorDePedidos.WPF\obj\Debug\Produtos.baml
+D:\Codigos\SinergiaWeb\C#\WPF\dn32comercio\ControlardorDePedidos.WPF\bin\Debug\dn32Layout.dll
